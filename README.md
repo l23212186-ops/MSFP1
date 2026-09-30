@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Christian Cid Pacheco \[23212186]; L23212186@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
